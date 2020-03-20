@@ -1,7 +1,7 @@
 {
   "name": "myproject",
   "version": "1.0.0",
-  "description": "This is the data selfie app by Joey Lee.",
+  "description": "This is the data selfie app",
   "main": "index.js",
   "dependencies": {
     "express": "^4.17.1"
